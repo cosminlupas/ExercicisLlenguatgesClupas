@@ -8,6 +8,7 @@
 ###### 6. C#
 ###### 7. PHP
 ###### 8. JAVASCRIPT
+###### 9. SQL
 
 ### 2. Amplia els coneixements sobre tres llenguatges que triïs dels mencionats anteriorment i introdueix un exemple de codi.
 
