@@ -47,4 +47,9 @@
 
 #### Llenguatges orientats a servidors.
 
+1. JSP
+2. PERL
+3. PHP
+4. ASP .NET
+
 #### Llenguatges orientats a objectes.
