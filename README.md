@@ -53,3 +53,9 @@
 4. ASP .NET
 
 #### Llenguatges orientats a objectes.
+
+1. JAVASCRIPT
+2. JAVA
+3. C++
+4. C#
+5. ETC...
