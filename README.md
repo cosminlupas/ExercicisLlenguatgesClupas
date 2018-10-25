@@ -17,7 +17,7 @@
 
 ###### <?php
 ######    echo "Hola aixo es un exemple de php com es ficarie dintre de un html"
-######?>
+###### ?>
 
 #### C#
 
@@ -35,6 +35,13 @@
 ######        }
 ######    }
 ###### }
+
+#### SWIFT
+
+###### import UIKit
+###### var str = "Hello, World!"
+###### println(str)
+
 
 ### 3. Busca llenguatges de programació del següent tipus:
 
