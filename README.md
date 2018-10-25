@@ -7,6 +7,7 @@
 ###### 5. VISUAL STUDIO .NET
 ###### 6. C#
 ###### 7. PHP
+###### 8. JAVASCRIPT
 
 ### 2. Amplia els coneixements sobre tres llenguatges que triïs dels mencionats anteriorment i introdueix un exemple de codi.
 
