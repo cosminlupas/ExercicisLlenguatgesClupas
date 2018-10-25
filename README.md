@@ -3,3 +3,5 @@
 ### 2. Amplia els coneixements sobre tres llenguatges que triïs dels mencionats anteriorment i introdueix un exemple de codi.
 
 ### 3. Busca llenguatges de programació del següent tipus:
+
+#### Llenguatges orientats a servidors.
