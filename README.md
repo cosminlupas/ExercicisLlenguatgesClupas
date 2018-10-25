@@ -13,13 +13,13 @@
 
 ### 2. Amplia els coneixements sobre tres llenguatges que triïs dels mencionats anteriorment i introdueix un exemple de codi.
 
-#### PHP
+PHP
 
-###### <?php
-######    echo "Hola aixo es un exemple de php com es ficarie dintre de un html"
-###### ?>
+<?php
+     echo "Hola aixo es un exemple de php com es ficarie dintre de un html"
+?>
 
-#### C#
+C#
 
 ###### <?php
 ######    echo "Hola aixo es un exemple de php com es ficarie dintre de un html"
