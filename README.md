@@ -14,19 +14,10 @@
 ### 2. Amplia els coneixements sobre tres llenguatges que triïs dels mencionats anteriorment i introdueix un exemple de codi.
 
 #### PHP
-###### <!DOCTYPE html>
-###### <html>
-###### <head>
-######   <title>PHP Script Example</title>
-###### </head>
-###### <body>
 
 ###### <?php
-######    echo "Hello world, I'm a PHP script!"
+######    echo "Hola aixo es un exemple de php com es ficarie dintre de un html"
 ###### ?>
-
-###### </body>
-###### </html>
 
 ### 3. Busca llenguatges de programació del següent tipus:
 
