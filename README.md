@@ -13,17 +13,31 @@
 
 ### 2. Amplia els coneixements sobre tres llenguatges que triïs dels mencionats anteriorment i introdueix un exemple de codi.
 
-PHP
-
-<?php
-     echo "Hola aixo es un exemple de php com es ficarie dintre de un html"
-?>
-
-C#
+#### PHP
 
 ###### <?php
 ######    echo "Hola aixo es un exemple de php com es ficarie dintre de un html"
-###### ?>
+######?>
+
+#### C#
+
+###### using System;
+###### using System.Collections.Generic;
+###### using System.Linq;
+###### using System.Text;
+###### using System.Threading.Tasks;
+
+###### namespace ConsoleApp1
+###### {
+###### class Program
+######    {
+######        static void Main(string[] args)
+######        {
+######                Console.WriteLine("Hello, world!");
+######                Console.ReadLine();
+######        }
+######    }
+###### }
 
 ### 3. Busca llenguatges de programació del següent tipus:
 
