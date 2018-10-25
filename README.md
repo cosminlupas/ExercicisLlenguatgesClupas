@@ -4,6 +4,7 @@
 ###### 2. C
 ###### 3. C++
 ###### 4. PYTHON
+###### 5. VISUAL STUDIO .NET
 
 ### 2. Amplia els coneixements sobre tres llenguatges que triïs dels mencionats anteriorment i introdueix un exemple de codi.
 
