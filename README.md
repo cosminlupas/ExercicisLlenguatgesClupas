@@ -17,7 +17,7 @@
 
 #### PHP
 PHP (acrònim recursiu de PHP: Hypertext Preprocessor ) és un llenguatge de codi obert molt popular especialment adequat per al desenvolupament web i que pot ser incrustat en HTML.  
-
+'''php
 <?php  
 $array = array(1, 2, 3, 4);  
 foreach ($array as &$valor) {  
@@ -25,7 +25,7 @@ foreach ($array as &$valor) {
 }  
 unset($valor);   
 ?>  
-
+'''
 #### C#
 C# (pronunciat si sharp en anglès) és un llenguatge de programació orientat a objectes desenvolupat i estandarditzat per Microsoft com a part de la seva plataforma .NET  
 
