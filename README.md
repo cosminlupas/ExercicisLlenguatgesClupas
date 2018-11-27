@@ -16,32 +16,32 @@
 ### 2. Amplia els coneixements sobre tres llenguatges que triïs dels mencionats anteriorment i introdueix un exemple de codi.
 
 #### PHP
-PHP (acrònim recursiu de PHP: Hypertext Preprocessor ) és un llenguatge de codi obert molt popular especialment adequat per al desenvolupament web i que pot ser incrustat en HTML.
+PHP (acrònim recursiu de PHP: Hypertext Preprocessor ) és un llenguatge de codi obert molt popular especialment adequat per al desenvolupament web i que pot ser incrustat en HTML.  
 
-<?php
-$array = array(1, 2, 3, 4);
-foreach ($array as &$valor) {
-   $valor = $valor * 2;
-}
-unset($valor); 
-?>
+<?php  
+$array = array(1, 2, 3, 4);  
+foreach ($array as &$valor) {  
+   $valor = $valor * 2;  
+}  
+unset($valor);   
+?>  
 
 #### C#
-C# (pronunciat si sharp en anglès) és un llenguatge de programació orientat a objectes desenvolupat i estandarditzat per Microsoft com a part de la seva plataforma .NET
+C# (pronunciat si sharp en anglès) és un llenguatge de programació orientat a objectes desenvolupat i estandarditzat per Microsoft com a part de la seva plataforma .NET  
 
-var fibNumbers = new List <int> { 0, 1, 1, 2, 3, 5, 8, 13 };
-int count = 0;
-foreach (int element in fibNumbers)
-{
-    count++;
-    Console.WriteLine($"Element #{count}: {element}");
-}
-Console.WriteLine($"Number of elements: {count}");
+var fibNumbers = new List <int> { 0, 1, 1, 2, 3, 5, 8, 13 };  
+int count = 0;  
+foreach (int element in fibNumbers  
+{  
+    count++;  
+    Console.WriteLine($"Element #{count}: {element}");  
+}  
+Console.WriteLine($"Number of elements: {count}");  
 
 #### SWIFT
-Swift és un llenguatge de programació multiparadigma creat per Apple enfocat en el desenvolupament d'aplicacions per iOS i macOS.
+Swift és un llenguatge de programació multiparadigma creat per Apple enfocat en el desenvolupament d'aplicacions per iOS i macOS.  
 
-func forEach(_ body: (Element) throws -> Void) rethrows
+func forEach(_ body: (Element) throws -> Void) rethrows  
 
 ### 3. Busca llenguatges de programació del següent tipus:
 
