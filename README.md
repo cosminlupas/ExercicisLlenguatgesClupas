@@ -28,7 +28,7 @@ unset($valor);
 ```
 #### C#
 C# (pronunciat si sharp en anglès) és un llenguatge de programació orientat a objectes desenvolupat i estandarditzat per Microsoft com a part de la seva plataforma .NET  
-
+```c#
 var fibNumbers = new List <int> { 0, 1, 1, 2, 3, 5, 8, 13 };  
 int count = 0;  
 foreach (int element in fibNumbers  
@@ -37,12 +37,12 @@ foreach (int element in fibNumbers
     Console.WriteLine($"Element #{count}: {element}");  
 }  
 Console.WriteLine($"Number of elements: {count}");  
-
+```
 #### SWIFT
 Swift és un llenguatge de programació multiparadigma creat per Apple enfocat en el desenvolupament d'aplicacions per iOS i macOS.  
-
+```swift
 func forEach(_ body: (Element) throws -> Void) rethrows  
-
+```
 ### 3. Busca llenguatges de programació del següent tipus:
 
 #### Llenguatges orientats a servidors.
