@@ -50,12 +50,27 @@ func forEach(_ body: (Element) throws -> Void) rethrows
 1. JSP
 2. PERL
 3. PHP
-4. ASP .NET
-
+4. ASP .NET  
+[Pàgina dels llenguatjes orientats a servidors](https://michelletorres.mx/lenguajes-de-programacion-del-lado-servidor/)
 #### Llenguatges orientats a objectes.
 
-1. JAVASCRIPT
-2. JAVA
-3. C++
-4. C#
-5. ETC...
+1. C++
+2. Objective C
+3. Java
+4. Smalltalk
+5. Eiffel
+6. Lexico (en castellano)
+7. Ruby
+8. Python
+9. OCAML
+10. Object Pascal
+11. CLIPS
+12. Visual .net
+13. Java
+14. Actionscript
+15. COBOL
+16. Perl
+17. C#
+18. Visual Basic.NET
+19. PHP  
+[Pàgina dels llenguatjes orientats a objectes](http://www.cleformacion.com/-/los-10-lenguajes-de-programacion-mas-demandados-en-2018)
